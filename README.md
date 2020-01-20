@@ -5,7 +5,7 @@ Requirements:
 Python > 2.7.17
 
 Installation:
-* Clone this repo: https://github.com/LemieuxCF/BasicChatRoom.git
+* Clone this repo: git clone https://github.com/LemieuxCF/BasicChatRoom.git
 * Enter the project directory: **cd BasicChatRoom**
 * Run the setup script: **python setup.py**
 * Run the app: **python main.py**
